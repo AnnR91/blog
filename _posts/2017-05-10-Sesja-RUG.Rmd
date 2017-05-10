@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Sesja spo³eczno¶ci R"
+date:   2017-04-26
+category: info
+---
+
+**Dla kogo ?** 
+
+Dla wszystkich zaanga¿owanych w tworzenie spo³eczno¶ci R w Polsce.
+Zarówno dla osób, które takie grupy prowadz±, jak równie¿ dla tych którzy chc± utworzyæ spo³eczno¶æ entuzjastów R w swojej okolicy :) 
+
+**Dlaczego ?**
+
+Grupy pasjonatów odgrywaj± ogromn± rolê w popularyzacji R. Celem ka¿dego ze spotkañ jest wymiana wiedzy i do¶wiadczeñ pomiêdzy obecnymi i nowymi u¿ytkownikami, kszta³cenie oraz networking. W Polsce aktywnie dzia³a 6 grup. W trakcie sesji chcieliby¶my pomóc w znalezieniu inspiracji do dalszego dzia³ania oraz u³atwiæ wymianê do¶wiadczeñ zwi±zanych z organizacj± spo³eczno¶ci skupiaj±cych entuzjastów R w Polsce. 
+
+**Czego mo¿na siê spodziewaæ ?**
+
+¯ywio³owej dyskusji pomiêdzy przedstawicielami istniej±cych spo³eczno¶ci R w Polsce, pod kontrol± charyzmatycznego prowadz±cego :)
+
+# Chcesz wzi±æ aktywny udzia³ w sesji?
+
+Je¿eli jeste¶ zainteresowany/zainteresowana reprezentowaniem grupy do której nale¿ysz oraz aktywnym udzia³em w sesji, pisz na nasz adres [whyr@mini.pw.edu.pl](mailto:whyr@mini.pw.edu.pl)
+
+# Chcesz pomóc w organizacji?
+
+Je¿eli jeste¶ zainteresowany/zainteresowana zaanga¿owaniem siê w organizacjê **Why R? 2017**, pisz na nasz adres [whyr@mini.pw.edu.pl](mailto:whyr@mini.pw.edu.pl)
+
+
+*Ania Rybiñska* 
